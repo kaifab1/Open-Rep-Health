@@ -1,0 +1,84 @@
+---
+title: "Module Descriptions"
+author: "kaifab1"
+date: "27/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# List of MSC Modules at Aberdeen University
+## Required Modules
+
+__Introduction to Statistics__ 
+
+> This course in Applied Statistics intends to focus on the application of statistical techniques in postgraduate research for health professionals, with a particular emphasis on the correct interpretation of statistical analyses. The course will NOT concentrate on the statistical theory underlying the subject. An important component of the course is the use of a statistical package. The statistical package used on this course will be IBM SPSS Statistics 25 which can be used to implement all of the methods taught on this course.  
+
+__Introduction to Health Data Science (Previously Introduction to Data Science)__  
+
+__Open and Reproducible Health__  
+
+__Health Informatics__  
+
+> We live in a time of ‘Big Data’ with the rapid growth in the digital capture of health information. Health Informatics is the science of data capture, linkage and analysis of large datasets to improve health. The demand for health researchers with training and experience in health informatics is high. For people practicing in Public Health, it is a key skill. It will equip students for any career in health research or public health practice and this course is an excellent stepping stone for those wishing to develop a specialist interest in the field.  
+
+__Epidemiology__  
+
+## Computing Related Elective Modules
+**Introduction to Programming (No longer offered for 2021 cohort)** 
+
+**Machine Learning**  
+
+**Artificial Intelligence** 
+
+>This course presents the fundamental techniques of Artificial Intelligence, used in system such as Google Maps, Siri, IBM Watson, as well as industrial automation systems, and which are core to emerging products such as self-driving vehicles. This course will equip the student to understand how such AI technologies operate, their implementation details, and how to use them effectively. This course therefore provides the building blocks necessary for understanding and using AI techniques and methodologies.  
+
+
+**Data Science to Insight** 
+
+>Data Science is an interdisciplinary field that seeks to identify and understand phenomena captured in structured or unstructured data, extract insights, and add value by generating predictions that aid optimization of processes and equipment. These techniques show considerable promise for bringing about a revolution, increasing the significance and value of owning and collecting data of all types. This course introduces the common techniques and considers the implications for data managers.  
+
+
+**Visualisation (No longer offered for 2021 cohort)**
+
+**Database and Big Data** 
+
+>This course will be of interest to anyone who wishes to learn to design and query databases. The course aims to teach the material using case studies from real-world applications. You will develop a critical understanding of the principal theories, principles and concepts, such as modelling techniques used in the design, administration and security of database systems. You will also learn core theoretical concepts such as relational algebra, file organisation and indexing. At the end of this course you will be able to design and build Web and cloud-based databases and have a critical understanding of how database-driven applications operate.  
+
+
+## Health Related Subjects
+
+**Foundations of Research Design**
+
+>Fundamentals of research design provides the student with skills in both quantitative and qualitative design enabling the student to plan ethical research in a health context. Students are taken through each step - from formulating the research question, to study design, sample selection, methods for data collection to dissemination of results.  
+
+**Health Economics**
+
+>Resources available for the provision and payment for health care are limited. However, knowledge of economics helps ensure that available resources are used in the most effective way possible. Economics allows more informed decision making about a variety of issues: choosing between alternative treatments; setting priorities between patients; choosing between alternative new technologies; organising the provision of health care.  
+
+**Designing Real-world Trials** 
+
+>Randomised Controlled Trials (RCTs) are used to test the effectiveness of interventions. The aim of this course is to take a student through the process of designing RCTs. The course will focus on RCTs in the evaluation of real world healthcare and public health settings.  
+
+
+**Evidenced-based Health**
+
+>This course aims to enable the fundamental understanding and application of evidence based health at an individual- and population-level, focusing on the use of systematic reviews to synthesise evidence as well as methods to translate and implement evidence to inform health practice and policy. Students on this course will work through the stages of a systematic review unit by unit, completing interactive and practical exercises to develop the skills required to conduct a review. They will then study how the evidence produced from systematic reviews is used to shape health policy and practice, at the level of organisations and individual clinical encounters.
+
+**Values and Ethics in Public Health**
+
+>This course challenges you to engage robustly with questions about what is good and right (and why) in public health policy and practice. You will develop your ability to critique and participate effectively in debates about what matters – and what is morally justified - in efforts to improve the health and wellbeing of communities and populations. You will develop the knowledge and confidence to identify value-based assumptions as you examine a range of real-world health problems and practice justifying and objecting to different strategies for addressing them.  
+
+
+**Systematic Reviewing**
+
+>This course will equip students with the relevant skills to interpret and conduct systematic reviews on the effectiveness of healthcare interventions. Using lectures and practical sessions, students will understand the principles of systematic reviewing and the differences between narrative and systematic reviews. They will learn to formulate a clear research question and undertake each stage of systematic reviewing of randomised controlled trials. They will also learn about the importance of the levels of evidence and systematic reviews of other different study designs. This course will also introduce the students to advances in systematic reviews such as network meta-analysis and use of Individual Patient Data (IPD).  
+
+## Research and Practicals
+* Work-based placement 
+* Extended work-based placement
+* Evaluating policy effects in practice
+* Rapid research projects
+* Masters research project
